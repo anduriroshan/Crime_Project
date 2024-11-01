@@ -4,7 +4,4 @@ seaborn
 scikit-learn
 sqlalchemy
 dill
-xgboost
-catboost
-lightgbm
 -e .
